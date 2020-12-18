@@ -1,0 +1,121 @@
+
+body{ margin: 0;
+  text-align: center;
+color: #505050;
+font-family: 'Roboto', sans-serif;
+}
+
+h1{position: relative;
+bottom:  75px;
+    font-family: 'Handlee', cursive;
+    font-size: 6.25rem;
+    padding-bottom: 0;
+    color: #03506f;
+}
+h3{font-family:  'Pavanam', sans-serif;
+color: #03506f;}
+h2{font-family: 'Pavanam', sans-serif;
+color: #03506f;}
+
+p{
+  font-family: 'Roboto', sans-serif;}
+
+.top-coloud{position: absolute;
+     right: 225px;
+
+     top: 50px;
+   }
+.bottom-coloud{position: absolute;
+  left: 225px;
+
+   bottom: 550px;
+}
+.mountain{position: absolute;
+top: 200px;
+left: 300px;
+}
+.pic{height:  250px;
+padding-top: 25px;
+
+}
+hr{margin-top: 10px;
+
+
+border-bottom:none;
+border-left: none;
+border-right: none;
+border-top-style: dotted;
+border-width: thick;
+width: 5%;
+border-color: grey;}
+
+.job{position: absolute;
+top: 200px;
+left:550px;
+font-size: 20px;
+color: #03506f;
+font-weight: normal;}
+
+
+.top-container{
+  background-color:#bce6eb;
+height: 500px;
+margin: 0;
+padding-top: 100px;}
+
+
+.bottom-container{background-color:#bce6eb;
+  padding:30px ;
+
+}
+
+.skill-row{ width: 50%;
+  margin: 25px auto;
+
+  line-height: 2;
+
+
+
+}
+.hi{ font-family: 'Pavanam', sans-serif;
+font-size: 3.125rem;
+padding-bottom: 10px;
+}
+.bio{position:relative;
+  bottom: 15px;
+
+}
+.Skils-pic{height: 200px;
+}
+
+ a {color: #03506f;}
+.gaming{height: 200px;
+  position: relative;
+  bottom:  20px;
+}
+
+.footer-link{padding-right: 30px;}
+.copyright{color:#456268;
+
+font-weight:300;}
+.BUTTON_JWB {
+   background: #03506F;
+   background-image: -webkit-linear-gradient(top, #03506F, #03506F);
+   background-image: -moz-linear-gradient(top, #03506F, #03506F);
+   background-image: -ms-linear-gradient(top, #03506F, #03506F);
+   background-image: -o-linear-gradient(top, #03506F, #03506F);
+   background-image: -webkit-gradient(to bottom, #03506F, #03506F);
+   -webkit-border-radius: 34px;
+   -moz-border-radius: 34px;
+   border-radius: 34px;
+   color: #FFFFFF;
+   font-family: sans-serif;
+   font-size: 21px;
+   font-weight: 100;
+   padding: 17px;
+   border: solid #03506F 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
